@@ -3,6 +3,12 @@
 
 ![alt text](https://github.com/IgChi/folders-gadget/blob/main/images/icon.png)
 
+![alt text](https://github.com/IgChi/folders-gadget/blob/main/images/preview-1.png)
+
+![alt text](https://github.com/IgChi/folders-gadget/blob/main/images/preview-2.png)
+
+## Installation:
+
 For second, 3th, 4th, ... folder you need to create this gadget DUPLICATE in your gadget's folder:
 ```
 (f.e. 'C:\Users\USERNAME\AppData\Local\Microsoft\Windows Sidebar\Gadgets\Folder-2.gadget')
